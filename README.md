@@ -1,5 +1,8 @@
 # mncux-zynq-scripts
 
+> [!NOTE]
+> The repo is moved to [HERE](https://github.com/lesterlo/meta-monutchee)
+
 
 
 Please clone https://github.com/lesterlo/mncux-zynq-manifest
